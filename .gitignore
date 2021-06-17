@@ -1,1 +1,6 @@
-CNN_CatsvsDogs/*
+CNN_CatsvsDogs/DATA/*
+CNN_CatsvsDogs/cats_vs_dogs_CNN.h5
+CNN_CatsvsDogs/features.npy
+CNN_CatsvsDogs/features_rgb.npy
+CNN_CatsvsDogs/labels.npy
+CNN_CatsvsDogs/labels_2.npy
